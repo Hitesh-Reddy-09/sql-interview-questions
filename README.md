@@ -326,7 +326,7 @@ A   B         B    C               A    B    C
 -   -         -    -               -    -    -
 1  aa         aa   20              1   aa   20
 2  bb         bb   30              2   bb   30
-3  cc         cc   40    
+3  cc         cc   40              3   cc   40
 ```
 
 **SQL Query**:
